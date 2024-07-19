@@ -1,0 +1,4 @@
+username=narendramali0001
+password=mGpE12msAP4oGpgd
+
+uri=mongodb+srv://narendramali0001:<password>@cluster0.j1jqj0r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
